@@ -2,7 +2,8 @@
 
 ## Introduction
 
-This is a project to detect E. coli more rapidly in drinking water.
+This is a project to detect the bacterium E. coli, commonly used as an indicator organism of fecal contamination,
+rapidly in drinking water in developing countries where a laboratory is not available.
 
 ## Problem
 
@@ -21,23 +22,32 @@ These methods generally require 24 to 48 hours.
 
 ### Motivation
 
-Imagine that we had a magic machine, not unlike the fictional [tricorder](https://en.wikipedia.org/wiki/Tricorder) of Star Trek,
-that at no cost instantly tells you if E. coli is present in drinking water
-and quanitifies if so.
+Imagine that we had a magic instrument, not unlike the fictional [tricorder](https://en.wikipedia.org/wiki/Tricorder) of Star Trek,
+that at no cost instantly determines if E. coli is present in drinking water
+and if so, how much.
 
 Such an instrument would not make polluted water safe to drink.
-However, just as a geiger counter can warn you to take precaution against
-radiation, such a device would help you protect yourself from and
-identify polluted water.
+However, it could be used to save lives around the world by:
+1. Ensuring water is safe to drink,
+2. Allowing water sources to be compared, and
+3. Helping to locate sources of contamination.
 
-The goal of this project is to build such a machine, or, more realistically,
-reduce the time and complexity of detecting E. coli as much as possible.
+The goal of this project is to build a free-libre, open source, portable, rugged, reliable instrument that can be
+taken into the field in developing countries and reliable measure the presence and quanity of E. coli.
 
 ## Call to Action
 
-Public Invention is a 501c3 tax-exempt public charity that "Invents for the public, in the public."
+Public Invention is a 501c3 tax-exempt public charity that "Invents in the public, for the public."
 We are seeking an "Invention Coach" to lead the Raid E. coli detection project team by volunteering
 the drive and expertise about eight hours per week.
+
+Such an "Invention Coach" would get the satisfaction of knowing they made a major contribution to
+high impact technical problem that will eventually save lives.
+
+Inventors, who volunteer to work on the project but not to take responsibility for leading,
+will also have the satisfaction of knowing they worked on a high-impact project. In all likelihood,
+academic or other publications will be produced which may advance the professional careers of undergradatues,
+graduates, and professionals.
 
 This is a multi-dimensional problem. It may be that the problem has been solved in the laboratory, and
 the need may be to make rugged, portable instruments for use in the field.
