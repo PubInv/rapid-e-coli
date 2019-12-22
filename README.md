@@ -32,6 +32,8 @@ However, it could be used to save lives around the world by:
 2. Allowing water sources to be compared, and
 3. Helping to locate sources of contamination.
 
+
+
 The goal of this project is to build a free-libre, open source, portable, rugged, reliable instrument that can be
 taken into the field in developing countries and reliable measure the presence and quanity of E. coli.
 
@@ -39,6 +41,9 @@ taken into the field in developing countries and reliable measure the presence a
 
 In conjunction with volunteers for Engineers Without Borders, we developed a battery-powered [portable incubator](http://jhe.ewb.org.au/index.php/jhe/article/view/127)
 that allowed this test to be performed in 48 hours with no electricty. All Public Invention project are open-source, you can build your own following this [instructable](https://www.instructables.com/id/Portable-Petrifilm-Incubator-for-Inexpensive-In-Fi/).
+![MainImageOfArmadillo](https://user-images.githubusercontent.com/5296671/71315292-9a072600-241e-11ea-917a-c014b15cba7c.jpg)
+![ExlplodedView Large](https://user-images.githubusercontent.com/5296671/71315291-95427200-241e-11ea-8860-0841ea66a634.jpg)
+
 
 However, there is more to do:
 1. Although small, the incubator could be made much smaller and easier to use.
@@ -62,6 +67,7 @@ graduates, and professionals.
 
 This is a multi-dimensional problem. It may be that the problem has been solved in the laboratory, and
 the need may be to make rugged, portable instruments for use in the field.
+Possibly computer vision integrated into a camera/microscope would be useful.
 It may be that additional basic biological and bio-hacking research is required.
 It might even be that this is primarily an education effort.
 What is really needed is someone willing to dive in and master this material to make
@@ -87,6 +93,7 @@ placed on a playing-card like film which contains agar, nutrients, and
 reagents. After 48 hours, colonies of bacteria may grow which are
 visible to the naked eye and identifiable as E. coli by their color
 and having generated a bubble of CO2 under a cellophane-like film.
+![Petrifilms showing colonies](https://user-images.githubusercontent.com/5296671/71315293-9e334380-241e-11ea-963c-727b85572285.png)
 
 # Related Research
 
