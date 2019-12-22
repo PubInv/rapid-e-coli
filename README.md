@@ -93,7 +93,8 @@ placed on a playing-card like film which contains agar, nutrients, and
 reagents. After 48 hours, colonies of bacteria may grow which are
 visible to the naked eye and identifiable as E. coli by their color
 and having generated a bubble of CO2 under a cellophane-like film.
-![Petrifilms showing colonies](https://user-images.githubusercontent.com/5296671/71315293-9e334380-241e-11ea-963c-727b85572285.png)
+
+![DualPetrifilmWC (Figure 7)](https://user-images.githubusercontent.com/5296671/71315308-316c7900-241f-11ea-8701-bdc6cabad5e5.png)
 
 # Related Research
 
