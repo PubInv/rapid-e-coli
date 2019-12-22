@@ -35,6 +35,17 @@ However, it could be used to save lives around the world by:
 The goal of this project is to build a free-libre, open source, portable, rugged, reliable instrument that can be
 taken into the field in developing countries and reliable measure the presence and quanity of E. coli.
 
+## Status of Project
+
+In conjunction with volunteers for Engineers Without Borders, we developed a battery-powered [portable incubator](http://jhe.ewb.org.au/index.php/jhe/article/view/127)
+that allowed this test to be performed in 48 hours with no electricty. All Public Invention project are open-source, you can build your own following this [instructable](https://www.instructables.com/id/Portable-Petrifilm-Incubator-for-Inexpensive-In-Fi/).
+
+However, there is more to do:
+1. Although small, the incubator could be made much smaller and easier to use.
+2. Although not requiring an electrical grid as an advance, the 48 hours is still a limitation.
+3. The colonies have to be counted by eye from photographs; the instrument is not fully automatic.
+4. The Petrifilm-based approach is good at detecting E. coli in dirty water; it is not good at telling that water is clean enough to meet WHO standards.
+
 ## Call to Action
 
 Public Invention is a 501c3 tax-exempt public charity that "Invents in the public, for the public."
