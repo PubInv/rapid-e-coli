@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a project to detect the bacterium E. coli, commonly used as an indicator organism of fecal contamination,
+This is a project to detect the bacterium [E. coli](https://en.wikipedia.org/wiki/Escherichia_coli), commonly used as an indicator organism of fecal contamination,
 rapidly in drinking water in developing countries where a laboratory is not available.
 
 ## Problem
@@ -16,7 +16,7 @@ From the same article:
 Providing water, sanitation and hygiene for the whole planet is a big job, and
 a tiny part of it is to be able to tell when your water is polluted.
 Of may possible sources of pollution, fecal contamination may be the most
-dangerous. E. coli is an bacterium which has been shown to be a valualbe
+dangerous. E. coli is an bacterium which has been shown to be a valuable
 indicator organism of fecal contamination that is relatively easy to detect.
 These methods generally require 24 to 48 hours.
 
@@ -54,7 +54,7 @@ However, there is more to do:
 ## Call to Action
 
 Public Invention is a 501c3 tax-exempt public charity that "Invents in the public, for the public."
-We are seeking an "Invention Coach" to lead the Raid E. coli detection project team by volunteering
+We are seeking an "Invention Coach" to lead the Rapid E. coli detection project team by volunteering
 the drive and expertise about eight hours per week.
 
 Such an "Invention Coach" would get the satisfaction of knowing they made a major contribution to
@@ -62,7 +62,7 @@ high impact technical problem that will eventually save lives.
 
 Inventors, who volunteer to work on the project but not to take responsibility for leading,
 will also have the satisfaction of knowing they worked on a high-impact project. In all likelihood,
-academic or other publications will be produced which may advance the professional careers of undergradatues,
+academic or other publications will be produced which may advance the professional careers of undergraduates,
 graduates, and professionals.
 
 This is a multi-dimensional problem. It may be that the problem has been solved in the laboratory, and
@@ -88,7 +88,7 @@ to detectable levels.
 
 The method of [Petrifilms](https://en.wikipedia.org/wiki/Petrifilm)
 manufactured by the 3M corporation are an illustrative
-example. In this method, a single millileter of sampled water is
+example. In this method, a single milliliter of sampled water is
 placed on a playing-card like film which contains agar, nutrients, and
 reagents. After 48 hours, colonies of bacteria may grow which are
 visible to the naked eye and identifiable as E. coli by their color
@@ -107,14 +107,14 @@ Same author, related work with pdf available: [https://aem.asm.org/content/aem/6
 This paper claims to have reduced the time to approximate seven hours:
 [https://onlinelibrary.wiley.com/doi/full/10.1046/j.1472-765x.2000.00683.x](https://onlinelibrary.wiley.com/doi/full/10.1046/j.1472-765x.2000.00683.x)
 
-This method gets it down to 45 minutes using an lumimometer. However, it requires between 100 and 1000 cells, so it is not clear how rapidly this
+This method gets it down to 45 minutes using an luminometer. However, it requires between 100 and 1000 cells, so it is not clear how rapidly this
 could be applied in the field:
 [https://ieeexplore.ieee.org/abstract/document/1037094](https://ieeexplore.ieee.org/abstract/document/1037094)
 
 
 ## Rapid coliform presence/absence test
 
-One of the means of determining drinking water safety is to perform a coliform presene/absence test such as those made by
+One of the means of determining drinking water safety is to perform a coliform presence/absence test such as those made by
 [Hach](https://www.hach.com/presence-absence-test-pk-12/product-downloads?id=7640249610) or
 [IDEXX](https://www.idexx.com/en/water/water-products-services/colilert/).
 
@@ -122,12 +122,12 @@ These methods require incubation at a certain temperature an produce a color cha
 Generally they require 24 hours or 48 hours.
 
 It seems possible to produce a rapid test by building a machine that takes the place of the human eye that tests
-the transmisssivity of a certain color, perhaps through a large linear quanity of the material. In theory
+the transmissivity of a certain color, perhaps through a large linear quanity of the material. In theory
 this might detect a color change more rapidly than 24 hours.
 
 For example, suppose that we could build a waveguide for water, consisting of a plastic tube with an index
 of refraction less than water. (The only plastic I know of that has this property is Teflon AF, made by DuPont,
-which can [specifically](http://www.biogeneral.com/teflon-af/) be used to make a light wave guide.) The tube, when filled with water, would resemble a glass optcal fiber.
+which can [specifically](http://www.biogeneral.com/teflon-af/) be used to make a light wave guide.) The tube, when filled with water, would resemble a glass optical fiber.
 Light shined into one end would be totally internally reflected.
 
 If we made a helical coil, we could easily produce several meters of light path in a compact space, still
@@ -135,14 +135,14 @@ containing 100 ml of water, the normal test sample size.
 
 ![rapid detection of colorimetric change in water](https://user-images.githubusercontent.com/5296671/48650617-994ec580-e9bc-11e8-870c-d317e262a797.png)
 
-Then, the machine could, wich some sensitivity, report a graph of tranmissivity over time, using a simple LED
+Then, the machine could, wich some sensitivity, report a graph of transmissivity over time, using a simple LED
 and a photodiode.
 
 In theory, it might be possible to detect changes in the color in a rapid period of time.
 
-The increase light path would multiply the sensitivy to transmissivity changes into a range detectable by
+The increase light path would multiply the sensitivity to transmissivity changes into a range detectable by
 a normal analog-to-digital converter, so long as the decreased trasmissivity was due solely to reaction of the
-reagent with the bacterial byprodut (if the water were very turbid, transmissivity might be so low this would not be possible.)
+reagent with the bacterial by product (if the water were very turbid, transmissivity might be so low this would not be possible.)
 
 The result might be the ability to perform this test in a much lower time than 24 hours.
 
@@ -155,12 +155,12 @@ physical device in an air gap; some sort of Faraday effect with polarization mig
 # Update: Test of Light Guide
 
 In February of 2019, we filled a teflon tube with water and attempted to use it as a light guide. At the scale of a meter, it appeared to fail completely. On the other, as would be theoretically predicted, when the tube was filled with nearly pure Ethanl (5% water), it worked as expected, sending all most all of the entering light to the exit end.
-The index of refaction of Ethanol is much higher than the index of refraction of water.
+The index of refraction of Ethanol is much higher than the index of refraction of water.
 
 
 # Understanding colorimetric changes
 
-Here is the description of [Petfilim Chemistry](https://www.3m.com/3M/en_US/company-us/all-3m-products/~/ECOLICT-3M-Petrifilm-E-coli-Coliform-Count-Plates/?N=5002385+3293785155&rt=rud):
+Here is the description of [Petrifilm Chemistry](https://www.3m.com/3M/en_US/company-us/all-3m-products/~/ECOLICT-3M-Petrifilm-E-coli-Coliform-Count-Plates/?N=5002385+3293785155&rt=rud):
 
 >The 3M Petrifilm E. coli/Coliform Count Plate is a sample-ready-culture-medium system which contains Violet Red Bile (VRB) >nutrients, a cold-water-soluble gelling agent, an indicator of glucuronidase activity (BCIG), and a tetrazolium indicator >that facilitates colony enumeration in food and beverage samples.
 
